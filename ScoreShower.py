@@ -2,8 +2,8 @@ import json
 import os
 
 # --- CONFIGURATION ---
-FILENAME = "20251109 Go Ahead Eagles vs Feyenoord SciSportsEvents - 2560935.json"
-OUTPUT_FILE = "structure_output.txt"
+FILENAME = "LiveData.json"
+OUTPUT_FILE = "LiveDataStructure.txt"
 # ---------------------
 
 def analyze_structure():
