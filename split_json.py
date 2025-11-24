@@ -15,7 +15,7 @@ SNAPSHOT_ARRAY_KEY = "data"
 OUTPUT_PREFIX = "live_part"
 
 # 4. How many files you want to create
-NUM_FILES = 20
+NUM_FILES = 582
 
 # --- END CONFIGURATION ---
 
